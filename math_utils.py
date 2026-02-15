@@ -1,1 +1,2 @@
-# Intencionalmente vacío o sin la función 'es_par' para provocar RED.
+def es_par(n: int) -> bool:
+    return n % 2 == 0
