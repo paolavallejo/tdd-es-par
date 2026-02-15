@@ -1,0 +1,1 @@
+# Intencionalmente vacío o sin la función 'es_par' para provocar RED.
